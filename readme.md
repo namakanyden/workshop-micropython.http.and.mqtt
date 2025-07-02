@@ -247,7 +247,7 @@ def extract_data(query: str, units: str, appid: str) -> dict:
 
 Našim cieľom je dostať získané dáta o počasí do služby [Adafruit IO]. Najprv sa však pozrieme na to, v akom formáte a v akom tvare služba od nás tieto dáta prijme a pred samotným odoslaním získané dáta do tohto tvaru transformujeme.
 
-[![Adafruit IO](https://cdn-learn.adafruit.com/assets/assets/000/039/803/original/adafruit_io_logo_black.png?1488555837)](https://io.adafruit.com/bletvask)
+[![Adafruit IO](images/logo-adafruitio.png)](https://io.adafruit.com/bletvask)
 
 
 ### Adafruit IO kanály
